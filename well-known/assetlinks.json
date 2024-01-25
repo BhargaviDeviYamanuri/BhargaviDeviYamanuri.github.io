@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.snb.samplewebviewapp",
+      "sha256_cert_fingerprints":
+      ["AB:D6:44:34:0E:88:38:15:2A:DC:8C:84:E4:25:C8:D6:90:1C:AF:B3:60:37:3A:06:8F:BC:27:9B:16:16:37:30"]
+    }
+  }]
